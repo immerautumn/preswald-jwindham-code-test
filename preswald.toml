@@ -7,7 +7,7 @@ entrypoint = "hello.py"
 
 [branding]
 name = "Jwind Preswald Project"
-logo = "images/jwindlogo.png"
+logo = "images/logo.png"
 favicon = "images/favicon.ico"
 primaryColor = "#00FF00"
 
