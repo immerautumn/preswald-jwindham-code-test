@@ -11,3 +11,6 @@ Thanks for your time. Speaking of time, since I was time limited, you'll notice 
 but I figured you were really just looking to see if I could do some basic manipulation, that this would be enough.
 
 I hope you have a great day!
+
+
+BTW; I couldn't move the files using the preswald code / script editor that you had, so I tried to load them from data, but gonna go ahead and wager that this was the problem for rendering the favicon and branding. So I'll move those in this version.
