@@ -7,8 +7,8 @@ entrypoint = "hello.py"
 
 [branding]
 name = "Jwind Preswald Project"
-logo = "data/jwindlogo.png"
-favicon = "data/favicon.ico"
+logo = "images/jwindlogo.png"
+favicon = "images/favicon.ico"
 primaryColor = "#00FF00"
 
 [data.sample_csv]
