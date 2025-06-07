@@ -1,0 +1,20 @@
+[project]
+title = "Jwind Preswald Project"
+version = "0.1.0"
+port = 8501
+slug = "{project_slug}"
+entrypoint = "hello.py"
+
+[branding]
+name = "Jwind Preswald Project"
+logo = "data/jwindlogo.png"
+favicon = "data/favicon.ico"
+primaryColor = "#00FF00"
+
+[data.sample_csv]
+type = "csv"
+path = "data/mmp_sample_data.csv"
+
+[logging]
+level = "INFO"
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s" 
